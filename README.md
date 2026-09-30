@@ -16,6 +16,9 @@ Ich baue produktive KI-Systeme, von der Anforderung bis zum Livebetrieb. Mein Sc
 **[laser-agent-pipeline](https://github.com/jensgeerkens/laser-agent-pipeline)** · Python
 Acht spezialisierte Agenten entwerfen Laser-Cut-Vorlagen; ein 3D-Montagesimulator prüft jede Konstruktion, bevor eine Schneidedatei entsteht.
 
+**[agent-harness](https://github.com/jensgeerkens/agent-harness)** · Claude Code, Multi-Agent
+Spezialisierte Agenten bauen eine Website in einem geschlossenen Qualitäts-Loop aus Recherche, Code, Prüfung und Bewertung, bis ein Zielscore erreicht ist. Ausgeliefert wird immer der beste Stand.
+
 **[reifenlager-case-study](https://github.com/jensgeerkens/reifenlager-case-study)** · Case Study
 Reifeneinlagerung einer Kfz-Werkstatt als PWA im Echtbetrieb: Supabase mit Row Level Security, Etikettendruck per Funk über ein Node.js-Relais, Monitoring und geprüfte Backups.
 
