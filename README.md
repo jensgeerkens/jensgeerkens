@@ -19,6 +19,9 @@ Acht spezialisierte Agenten entwerfen Laser-Cut-Vorlagen; ein 3D-Montagesimulato
 **[agent-harness](https://github.com/jensgeerkens/agent-harness)** · Claude Code, Multi-Agent
 Spezialisierte Agenten bauen eine Website in einem geschlossenen Qualitäts-Loop aus Recherche, Code, Prüfung und Bewertung, bis ein Zielscore erreicht ist. Ausgeliefert wird immer der beste Stand.
 
+**[rag-showcase](https://github.com/jensgeerkens/rag-showcase)** · Python, RAG
+Retrieval-Augmented Generation über die n8n-Dokumentation ohne Framework: Chunking, austauschbare Embedder, Vektorsuche und Claude-Antworten mit Quellenangaben, gemessen an einem eigenen Eval-Set mit 101 Anfragen.
+
 **[reifenlager-case-study](https://github.com/jensgeerkens/reifenlager-case-study)** · Case Study
 Reifeneinlagerung einer Kfz-Werkstatt als PWA im Echtbetrieb: Supabase mit Row Level Security, Etikettendruck per Funk über ein Node.js-Relais, Monitoring und geprüfte Backups.
 
