@@ -2,26 +2,36 @@
 
 **AI Engineer · LLM-Agenten, Prozessautomatisierung, Voice-AI**
 
-Ich baue produktive KI-Systeme, von der Anforderung bis zum Livebetrieb. Mein Schwerpunkt sind LLM-Agenten, die reale Aufgaben autonom erledigen, und die Automatisierung von Geschäftsprozessen. Wichtiger als ein schneller Prototyp ist mir, dass ein System im Betrieb stabil läuft und seine Ergebnisse überprüfbar sind.
+Ich baue produktive KI-Systeme, von der Anforderung bis zum Livebetrieb. Mein Schwerpunkt sind LLM-Agenten, die reale Aufgaben erledigen, und die Automatisierung von Geschäftsprozessen. Wichtiger als ein schneller Prototyp ist mir, dass ein System im Betrieb stabil läuft und seine Ergebnisse überprüfbar sind.
 
 ### Womit ich arbeite
 
-- **LLM-Agenten:** Multi-Agent-Architekturen, Orchestrierung, Qualitätssicherung von KI-Ausgaben (Guardrails, Validierung, Halluzinationen systematisch eingrenzen)
-- **Automatisierung:** n8n, Webhooks, API-Integrationen, Anbindung an CRM- und Fachsysteme
-- **Sprache & Tooling:** Python, Claude Agent SDK, MCP, RAG
-- **Betrieb:** Docker, Linux, saubere Test- und Deployment-Praxis
+- **LLM-Agenten:** Multi-Agent-Architekturen, Orchestrierung, Qualitätssicherung von KI-Ausgaben (Guardrails, Validierung, Tests)
+- **Automatisierung:** Activepieces, n8n, Webhooks, API- und CRM-Integrationen
+- **Sprachen & Tooling:** Python, JavaScript/TypeScript, Claude Agent SDK, MCP, RAG
+- **Betrieb:** Docker, Linux, Supabase, Cloudflare, GitHub Actions, Monitoring und Backups
 
 ### Ausgewählte Projekte
 
-**[in-den-himmel](https://github.com/jensgeerkens/in-den-himmel)** · Vanilla JavaScript
-Eine interaktive Scroll-Seite vom Erdboden bis zum Rand des Universums, 155 Objekte auf ihrer echten Höhe. Zeigt sauberes Frontend-Handwerk ohne Framework: Performance, Bildoptimierung, Deep-Links.
-[Live ansehen](https://in-den-himmel.pages.dev)
+**[laser-agent-pipeline](https://github.com/jensgeerkens/laser-agent-pipeline)** · Python
+Acht spezialisierte Agenten entwerfen Laser-Cut-Vorlagen; ein 3D-Montagesimulator prüft jede Konstruktion, bevor eine Schneidedatei entsteht.
 
 **[reifenlager-case-study](https://github.com/jensgeerkens/reifenlager-case-study)** · Case Study
-Eine produktive App für die Reifeneinlagerung einer Kfz-Werkstatt (rund 5 Mitarbeiter, rund 300 Kunden). PWA, Supabase, Cloudflare. Dokumentiert Architektur, Entscheidungen und den Weg vom Problem zur laufenden Lösung.
+Reifeneinlagerung einer Kfz-Werkstatt als PWA im Echtbetrieb: Supabase mit Row Level Security, Etikettendruck per Funk über ein Node.js-Relais, Monitoring und geprüfte Backups.
+
+**[werkzeuglager-case-study](https://github.com/jensgeerkens/werkzeuglager-case-study)** · Case Study
+Werkzeugverwaltung mit Verleih per QR-Code; aus dem Handyfoto wird per Bildmodell eine Etiketten-Skizze, mit festem Kostenlimit. In drei Tagen von der Planung in den Betrieb.
+
+**[gruenpflege-website-case-study](https://github.com/jensgeerkens/gruenpflege-website-case-study)** · Case Study
+Website eines Grünflächenpflege-Betriebs, vom Fragebogen bis zur Astro-Seite mit eigenem Kontaktformular, ohne externe Anfragen.
+
+**[in-den-himmel](https://github.com/jensgeerkens/in-den-himmel)** · Vanilla JavaScript
+Scroll-Seite vom Erdboden bis zum Rand des Universums, 155 Objekte auf ihrer echten Höhe.
+[Live ansehen](https://in-den-himmel.pages.dev)
 
 ### Kontakt
 
+- **Website:** [geerkens.ai](https://geerkens.ai)
 - **E-Mail:** jens@geerkens.ai
 - **LinkedIn:** [jens-geerkens](https://www.linkedin.com/in/jens-geerkens-20a939278)
 
